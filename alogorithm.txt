@@ -1,0 +1,32 @@
+Yoo Docs ma convert garnuu algorithm ko section ma :
+
+
+Step 1: Start
+
+Step 2: Create an empty list called "medicines" to store all medicine data.
+
+Step 3: Open the file "medicines.txt" in read mode.
+
+Step 4: Read the file line by line. For each line:  
+   Step 4.1: Remove any extra spaces or newlines.  
+   Step 4.2: Split the line by comma to get individual parts.  
+   Step 4.3: Store the parts in a dictionary with these keys:  
+              - medicine_name → part 1  
+              - brand_name → part 2  
+              - stock → part 3 (as integer)  
+              - rate_tablet → part 4 (as integer)  
+              - rate_strip → part 5 (as integer)  
+              - tablets_per_strip → part 6 (as integer)  
+   Step 4.4: Add the dictionary to the medicines list.
+
+Step 5: Close the file. : This is handled automatically by "with" statement.
+
+Step 6: For each medicine in the medicines list, display:  
+              - Medicine name  
+              - Brand name  
+              - Stock (in tablets)  
+              - Rate per tablet (in Rs)  
+              - Rate per strip (in Rs)  
+              - Tablets per strip.
+
+Step 7: End.

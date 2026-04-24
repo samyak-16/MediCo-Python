@@ -1,0 +1,14 @@
+Data Structures Used in this python program (code) : 
+
+List : medicines = []
+-> A list is an ordered collection that can hold multiple items. Here it holds all the medicines dictionaries
+
+Dictionary: medicine = { }
+-> A dictionary stores data in key-value pairs. Here each medicine's details are stored with meaningful keys instead of
+just index numbers.
+
+String:
+-> Used to store text data like medicine name and brand name . Also used when reading each line from the file and splitting it
+
+Integer:
+-> Used to store numerical values like stock , rates and tablets per strip 
