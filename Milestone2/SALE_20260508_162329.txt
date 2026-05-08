@@ -1,0 +1,24 @@
+══════════════════════════════════════════════════════════
+       MEDSTORE PVT. LTD.
+       Wholesale Medicine Distributor
+══════════════════════════════════════════════════════════
+  Document  : SALE_20260508_162329.txt
+  Type      : SALE
+  Customer  : Radha
+  Date/Time : 08 May 2026, 04:23 PM
+──────────────────────────────────────────────────────────
+
+  Item 1:
+    Medicine   :  Pantoprazole 40mg
+    Quantity   :  3 Strips
+    Price      :  Rs. 180.00
+    Discount   :  Rs. 9.00  (5% bulk strip offer)
+    Payable    :  Rs. 171.00
+    ····································
+
+──────────────────────────────────────────────────────────
+  TOTAL ITEMS                        1
+  GRAND TOTAL                    Rs. 171.00
+══════════════════════════════════════════════════════════
+  Thank you for shopping with us!
+══════════════════════════════════════════════════════════

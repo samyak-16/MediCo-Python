@@ -1,0 +1,23 @@
+══════════════════════════════════════════════════════════
+       MEDSTORE PVT. LTD.
+       Wholesale Medicine Distributor
+══════════════════════════════════════════════════════════
+  Document  : RESTOCK_20260508_162509.txt
+  Type      : RESTOCK
+  Supplier  : Radha Suppliers
+  Date/Time : 08 May 2026, 04:25 PM
+──────────────────────────────────────────────────────────
+
+  Item 1:
+    Medicine   :  ORS Sachet
+    Quantity   :  300 Tablets
+    Rate       :  Rs. 20 per Tablets
+    Amount     :  Rs. 6000.00
+    ····································
+
+──────────────────────────────────────────────────────────
+  TOTAL ITEMS                        1
+  GRAND TOTAL                    Rs. 6000.00
+══════════════════════════════════════════════════════════
+  Stock updated. Thank you, supplier!
+══════════════════════════════════════════════════════════
